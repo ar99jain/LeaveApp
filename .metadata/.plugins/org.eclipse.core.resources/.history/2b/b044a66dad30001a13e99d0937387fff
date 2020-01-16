@@ -1,0 +1,34 @@
+package stepDefination;
+
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class StepLoginUltimatix {
+
+	@Given("^User is able access the Ultimatix url $")
+	public void User_is_able_access_Ultimatix()
+	{
+		
+	}
+	
+	@When("^User login to ultimatix with correct userId$")
+	public void User_login_to_ultimatix_with_correct_userId()
+	{
+		
+	}
+	
+	@And("^with correct Password$")
+	public void with_correct_Password()
+	{
+		
+	}
+	
+	@Then("^User should be able to login successfully and ultimatix Home page should display$")
+	public void Useultimatix_Home_page()
+	{
+		
+	}
+	
+}
