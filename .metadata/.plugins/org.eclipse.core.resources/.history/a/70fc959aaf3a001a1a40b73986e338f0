@@ -16,8 +16,8 @@ public class UltimatixLoginSteps {
 		  
 		  System.out.println("123");
 		  System.out.println("456");
-		  System.out.println("789");
-		  System.out.println("012"); 
+		 
+	        
 	    }
 
 	    @When("^User login to ultimatix with correct userId$")
